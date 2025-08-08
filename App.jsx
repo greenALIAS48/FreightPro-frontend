@@ -1,5 +1,10 @@
-import React from 'react';
+/// src/App.jsx
+function App() {
+  return (
+    <div>
+      <h1>FreightPro Frontend Running</h1>
+    </div>
+  )
+}
 
-const App = () => <div>Hello FreightPro</div>;
-
-export default App;
+export default App
